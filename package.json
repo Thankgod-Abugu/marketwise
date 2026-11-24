@@ -1,0 +1,23 @@
+{
+  "name": "marketwise",
+  "version": "0.0.1",
+  "description": "marketwise is a platform where wholesellers or retailers can keep track of their product sales",
+  "homepage": "https://github.com/Thankgod-Abugu/marketwise#readme",
+  "bugs": {
+    "url": "https://github.com/Thankgod-Abugu/marketwise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thankgod-Abugu/marketwise.git"
+  },
+  "license": "ISC",
+  "author": "thankgod abugu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
